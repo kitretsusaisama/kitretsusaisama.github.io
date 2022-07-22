@@ -10,11 +10,11 @@ import Footer from "../resources/templates/footer/indoor";
 const Home: NextPage = () => {
   return (
 	<>
-	{/*<Search />
+	<Search />
 	<Header />
 	<Topheader />
 	<Blog />
-  <Footer />*/}
+  <Footer />
 	</>
   );
 }

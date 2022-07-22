@@ -21,7 +21,7 @@ class MyDocument extends Document {
     <Script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></Script>
     </Head>
         <body className="bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100">
-         <Preloader />
+         {/*<Preloader />*/}
           <Main />
           <NextScript />
           <Script src="js/jquery-1.12.3.min.js"></Script>

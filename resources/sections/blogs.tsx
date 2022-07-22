@@ -3,7 +3,7 @@ import Loadmore from "../components/loadmore";
 const blog: FunctionComponent = () => {
     return (
     <>
-<section className="blog-post style-nine ">
+<section id="blog" className="blog-post style-nine ">
 		<div className="container">
 			<div className="row">
 				<div className="col-lg-10 offset-lg-1">
@@ -92,7 +92,7 @@ const blog: FunctionComponent = () => {
 			<Loadmore />
 		</div>
 	</section>
-            </>
+</>
  );
     }
 
